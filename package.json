@@ -1,0 +1,26 @@
+{
+  "name": "score",
+  "version": "1.0.0",
+  "description": "SCORE is a web application that translates any uploaded image — a drawing, a photograph, a map, a doodle, a child’s painting — into a piece of music.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RENAH-HTTP/SCORE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RENAH-HTTP/SCORE/issues"
+  },
+  "homepage": "https://github.com/RENAH-HTTP/SCORE#readme",
+  "dependencies": {
+    "electron": "^42.0.1",
+    "node-osc": "^11.4.0",
+    "p5": "^2.2.3"
+  }
+}
